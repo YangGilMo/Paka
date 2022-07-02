@@ -25,6 +25,7 @@ public class VariableLiteral {
 		
 		System.out.println("*\n*\n*");
 		
+		// \r\n
 		
 	}
 }
